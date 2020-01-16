@@ -8,6 +8,8 @@ A blog site written in Spring Boot. Used by [https://bianjp.com](https://bianjp.
 * PostgreSQL >= 9.0
 * Redis
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Extra development/building requirement:
 
 * Node.js >= 6
